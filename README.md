@@ -1,4 +1,12 @@
-## Hi there 👋
+# **👋 _Hello, I'm Sohan Banerjee_ 👋**  
+💻️ **_Currently Studying_** : Web Development | BTech CSE(AI) | Learning Large Language Model💻️💻️
+  
+🌐 **_Interest_** : Anime▶️ | Coding🧑‍💻 | Swimming🏊‍♂️ | Gaming🎮 | Watching Movies🎥
+# **🔗 Connect With Me**
+**Discord**:[Yorix] | **LinkedIn**:[Sohan_Banerjee](https://www.linkedin.com/in/sohanbanerjee-offcl/) | **Email**:banejeesohan873@gmail.com | **ORCID**:[Sohan](https://orcid.org/0009-0005-1702-2235)
+
+  
+  
 
 <!--
 **Sohan010-dev/Sohan010-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
