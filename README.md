@@ -3,7 +3,7 @@
   
 🌐 **_Interest_** : Anime▶️ | Coding🧑‍💻 | Swimming🏊‍♂️ | Gaming🎮 | Watching Movies🎥
 # **🔗 Connect With Me**
-**Discord**:[Yorix] | **LinkedIn**:[Sohan_Banerjee](https://www.linkedin.com/in/sohanbanerjee-offcl/) | **Email**:banejeesohan873@gmail.com | **ORCID**:[Sohan](https://orcid.org/0009-0005-1702-2235)
+**Discord**:[Yorix](https://discord.dog/904254500716564530) | **LinkedIn**:[Sohan_Banerjee](https://www.linkedin.com/in/sohanbanerjee-offcl/) | **Email**:banejeesohan873@gmail.com | **ORCID**:[Sohan](https://orcid.org/0009-0005-1702-2235)
 
   
   
