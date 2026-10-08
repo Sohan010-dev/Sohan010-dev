@@ -12,15 +12,19 @@
   </p>
   
   <p>
-    <a href="YOUR_LINKEDIN_LINK_HERE" target="_blank">
+    <a href="[YOUR_LINKEDIN_LINK_HERE](https://www.linkedin.com/in/sohanbanerjee-offcl/)https://www.linkedin.com/in/sohanbanerjee-offcl/" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
-    <a href="YOUR_DISCORD_LINK_HERE" target="_blank">
+    <a href="[YOUR_DISCORD_LINK_HERE](https://discord.dog/904254500716564530)" target="_blank">
       <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
     </a>
-    <a href="YOUR_INSTA_LINK_HERE" target="_blank">
+    <a href="[YOUR_INSTA_LINK_HERE](https://www.instagram.com/uchihx_sohan/?__pwa=1)" target="_blank">
       <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
     </a>
+     <a href="[YOUR_INSTA_LINK_HERE](https://x.com/S33801Sohan)" target="_blank">
+      <img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=X&logoColor=white" alt="Twitter" />
+    </a>
+    
   </p>
 </div>
 
