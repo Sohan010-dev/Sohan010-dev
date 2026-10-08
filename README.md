@@ -1,7 +1,8 @@
 <!-- HEADER SECTION -->
 <div align="center">
   <a href="https://github.com/Sohan010-dev">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=Sohan%20Banerjee&fontSize=60&fontColor=ffffff&fontAlignY=35&desc=Web%20Developer%20%7C%201st-Year%20Student%20at%20UEM%20Kolkata&descSize=22&descAlignY=60&animation=twinkling" alt="Sohan Banerjee Header" />
+    <!-- Updated with custom red and blue gradient -->
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=ff0000,0000ff,ff0000&height=250&section=header&text=Sohan%20Banerjee&fontSize=60&fontColor=ffffff&fontAlignY=35&desc=Web%20Developer%20%7C%201st-Year%20Student%20at%20UEM%20Kolkata&descSize=22&descAlignY=60&animation=twinkling" alt="Sohan Banerjee Header" />
   </a>
   
   <h3>Building Modern Web Apps 🚀</h3>
@@ -58,33 +59,22 @@
 
 <div align="center">
   <h3>💻 Programming Languages</h3>
-  <p>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="50" alt="C" title="C" />&nbsp;&nbsp;&nbsp;&nbsp;
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" alt="Python" title="Python" />&nbsp;&nbsp;&nbsp;&nbsp;
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="50" alt="Java" title="Java" />&nbsp;&nbsp;&nbsp;&nbsp;
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" alt="JavaScript" title="JavaScript" />
-  </p>
+  <img src="https://skillicons.dev/icons?i=c,python,java,js&theme=dark" height="60" alt="Programming Languages" />
 
-  <br>
+  <br><br>
 
   <h3>🌐 Frontend Development</h3>
-  <p>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50" alt="HTML5" title="HTML" />&nbsp;&nbsp;&nbsp;&nbsp;
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50" alt="CSS3" title="CSS" />&nbsp;&nbsp;&nbsp;&nbsp;
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" alt="JavaScript" title="JavaScript" />
-  </p>
+  <img src="https://skillicons.dev/icons?i=html,css,js&theme=dark" height="60" alt="Frontend Tools" />
 
-  <br>
+  <br><br>
 
   <h3>🤖 AI Tools & Modern Tech</h3>
   <p>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="50" alt="VS Code" title="VS Code" />&nbsp;&nbsp;&nbsp;&nbsp;
-    <img src="https://cdn.simpleicons.org/replit/F26207" height="50" alt="Replit" title="Replit" />&nbsp;&nbsp;&nbsp;&nbsp;
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="50" alt="GitHub" title="GitHub" />&nbsp;&nbsp;&nbsp;&nbsp;
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height="50" alt="GitLab" title="GitLab" />&nbsp;&nbsp;&nbsp;&nbsp;
-    <img src="https://cdn.simpleicons.org/openai/412991" height="50" alt="ChatGPT" title="ChatGPT" />&nbsp;&nbsp;&nbsp;&nbsp;
-    <img src="https://cdn.simpleicons.org/anthropic/D97757" height="50" alt="Claude" title="Claude" />&nbsp;&nbsp;&nbsp;&nbsp;
-    <img src="https://cdn.simpleicons.org/googlegemini/8E75B2" height="50" alt="Gemini" title="Gemini" />
+    <!-- Spacing significantly reduced between all icons -->
+    <img src="https://skillicons.dev/icons?i=vscode,replit,github,gitlab&theme=dark" height="55" alt="Modern Tech" />&nbsp;
+    <img src="https://upload.wikimedia.org/wikipedia/commons/0/04/ChatGPT_logo.svg" height="45" alt="ChatGPT" title="ChatGPT" />&nbsp;
+    <img src="https://cdn.simpleicons.org/anthropic/D97757" height="45" alt="Claude" title="Claude" />&nbsp;
+    <img src="https://upload.wikimedia.org/wikipedia/commons/8/8a/Google_Gemini_logo.svg" height="45" alt="Gemini" title="Gemini" />
   </p>
 </div>
 
@@ -96,11 +86,12 @@
 <table align="center" width="100%">
   <tr>
     <td width="55%">
-      <img src="https://github-readme-stats.vercel.app/api?username=Sohan010-dev&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="GitHub Stats" width="100%"/>
+      <!-- Changed theme to 'radical' for maximum high-contrast colors -->
+      <img src="https://github-readme-stats.vercel.app/api?username=Sohan010-dev&show_icons=true&theme=radical&hide_border=true&include_all_commits=true" alt="GitHub Stats" width="100%"/>
       <br>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sohan010-dev&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="100%"/>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sohan010-dev&theme=radical&hide_border=true" alt="GitHub Streak" width="100%"/>
       <br>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sohan010-dev&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="100%"/>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sohan010-dev&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="100%"/>
     </td>
     <td width="45%" align="center">
       <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" alt="Robot Greeting" width="250"/>
@@ -118,15 +109,13 @@
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Sohan010-dev/Sohan010-dev/blob/output/github-contribution-grid-snake-dark.svg?raw=true">
-    <source media="(prefers-color-scheme: light)" srcset="https://github.com/Sohan010-dev/Sohan010-dev/blob/output/github-contribution-grid-snake.svg?raw=true">
-    <img alt="Pacman Contribution Arcade" src="https://github.com/Sohan010-dev/Sohan010-dev/blob/output/github-contribution-grid-snake-dark.svg?raw=true" width="100%">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sohan010-dev/Sohan010-dev/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Sohan010-dev/Sohan010-dev/output/github-contribution-grid-snake.svg">
+    <img alt="Pacman Contribution Arcade" src="https://raw.githubusercontent.com/Sohan010-dev/Sohan010-dev/output/github-contribution-grid-snake-dark.svg" width="100%">
   </picture>
   <br>
   <p><i>Not today. Not tomorrow. But one day ;-)</i></p>
 </div>
-<!--
-**Sohan010-dev/Sohan010-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
