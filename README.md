@@ -1,13 +1,11 @@
 <!-- HEADER SECTION -->
 <div align="center">
-  <!-- Animated Colorful Background Header -->
   <a href="https://github.com/Sohan010-dev">
     <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=Sohan%20Banerjee&fontSize=60&fontColor=ffffff&fontAlignY=35&desc=Web%20Developer%20%7C%201st-Year%20Student%20at%20UEM%20Kolkata&descSize=22&descAlignY=60&animation=twinkling" alt="Sohan Banerjee Header" />
   </a>
   
   <h3>Building Modern Web Apps 🚀</h3>
 
-  <!-- Social Badges -->
   <p>
     <img src="https://img.shields.io/github/followers/Sohan010-dev?color=00ffff&style=for-the-badge&logo=github&logoColor=white" alt="Followers" />
   </p>
@@ -22,13 +20,9 @@
     <a href="YOUR_INSTA_LINK_HERE" target="_blank">
       <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
     </a>
-    <a href="YOUR_ORCID_LINK_HERE" target="_blank">
-      <img src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" alt="ORCID" />
-    </a>
   </p>
 </div>
 
-<!-- Rainbow Separator -->
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
 <div align="center">
@@ -52,33 +46,48 @@
       </ul>
     </td>
     <td width="40%" align="center">
-      <!-- Animated Coder GIF -->
       <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="Coding GIF" width="300"/>
     </td>
   </tr>
 </table>
 
-<!-- Rainbow Separator -->
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
 <!-- TECH STACK SECTION -->
 ## 🛠 Tech Stack & Skills
 
 <div align="center">
+  <h3>💻 Programming Languages</h3>
+  <p>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="50" alt="C" title="C" />&nbsp;&nbsp;&nbsp;&nbsp;
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" alt="Python" title="Python" />&nbsp;&nbsp;&nbsp;&nbsp;
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="50" alt="Java" title="Java" />&nbsp;&nbsp;&nbsp;&nbsp;
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" alt="JavaScript" title="JavaScript" />
+  </p>
+
   <br>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="60" alt="HTML5" title="HTML" />
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="60" alt="CSS3" title="CSS" />
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="60" alt="JavaScript" title="JavaScript" />
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="60" alt="Python" title="Python" />
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="60" alt="Java" title="Java" />
-  <br><br>
+
+  <h3>🌐 Frontend Development</h3>
+  <p>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50" alt="HTML5" title="HTML" />&nbsp;&nbsp;&nbsp;&nbsp;
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50" alt="CSS3" title="CSS" />&nbsp;&nbsp;&nbsp;&nbsp;
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" alt="JavaScript" title="JavaScript" />
+  </p>
+
+  <br>
+
+  <h3>🤖 AI Tools & Modern Tech</h3>
+  <p>
+    <img src="https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" />
+    <img src="https://img.shields.io/badge/Replit-667881?style=for-the-badge&logo=replit&logoColor=white" alt="Replit" />
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab" />
+    <img src="https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white" alt="ChatGPT" />
+    <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude" />
+    <img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=google&logoColor=white" alt="Gemini" />
+  </p>
 </div>
 
-<!-- Rainbow Separator -->
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
 <!-- GITHUB STATS SECTION -->
@@ -87,7 +96,6 @@
 <table align="center" width="100%">
   <tr>
     <td width="55%">
-      <!-- GitHub Stats Cards -->
       <img src="https://github-readme-stats.vercel.app/api?username=Sohan010-dev&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="GitHub Stats" width="100%"/>
       <br>
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sohan010-dev&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="100%"/>
@@ -95,7 +103,6 @@
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sohan010-dev&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="100%"/>
     </td>
     <td width="45%" align="center">
-      <!-- Animated Robot with Speech Bubble matching the screenshot -->
       <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" alt="Robot Greeting" width="250"/>
       <br>
       <code>Welcome! Can I help with anything?</code><br>
@@ -104,22 +111,17 @@
   </tr>
 </table>
 
-<!-- Rainbow Separator -->
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
 <!-- CONTRIBUTION ARCADE SECTION -->
 ## 👾 Contribution Arcade
 
 <div align="center">
-  <!-- Dark Mode Pacman Contribution Grid -->
-  <a href="https://github.com/Sohan010-dev">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sohan010-dev/Sohan010-dev/output/github-contribution-grid-snake-dark.svg">
-      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Sohan010-dev/Sohan010-dev/output/github-contribution-grid-snake.svg">
-      <!-- Fallback image styled for dark mode if action isn't running yet -->
-      <img alt="Pacman Contribution Arcade" src="https://github-readme-activity-graph.vercel.app/graph?username=Sohan010-dev&bg_color=0d1117&color=00ffff&line=ff00ff&point=ffffff&area=true&hide_border=true" width="100%">
-    </picture>
-  </a>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sohan010-dev/Sohan010-dev/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Sohan010-dev/Sohan010-dev/output/github-contribution-grid-snake.svg">
+    <img alt="Pacman Contribution Arcade" src="https://raw.githubusercontent.com/Sohan010-dev/Sohan010-dev/output/github-contribution-grid-snake-dark.svg" width="100%">
+  </picture>
   <br>
   <p><i>Not today. Not tomorrow. But one day ;-)</i></p>
 </div>
