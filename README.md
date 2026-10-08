@@ -78,13 +78,13 @@
 
   <h3>🤖 AI Tools & Modern Tech</h3>
   <p>
-    <img src="https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" />
-    <img src="https://img.shields.io/badge/Replit-667881?style=for-the-badge&logo=replit&logoColor=white" alt="Replit" />
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-    <img src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab" />
-    <img src="https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white" alt="ChatGPT" />
-    <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude" />
-    <img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=google&logoColor=white" alt="Gemini" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="50" alt="VS Code" title="VS Code" />&nbsp;&nbsp;&nbsp;&nbsp;
+    <img src="https://cdn.simpleicons.org/replit/F26207" height="50" alt="Replit" title="Replit" />&nbsp;&nbsp;&nbsp;&nbsp;
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="50" alt="GitHub" title="GitHub" />&nbsp;&nbsp;&nbsp;&nbsp;
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height="50" alt="GitLab" title="GitLab" />&nbsp;&nbsp;&nbsp;&nbsp;
+    <img src="https://cdn.simpleicons.org/openai/412991" height="50" alt="ChatGPT" title="ChatGPT" />&nbsp;&nbsp;&nbsp;&nbsp;
+    <img src="https://cdn.simpleicons.org/anthropic/D97757" height="50" alt="Claude" title="Claude" />&nbsp;&nbsp;&nbsp;&nbsp;
+    <img src="https://cdn.simpleicons.org/googlegemini/8E75B2" height="50" alt="Gemini" title="Gemini" />
   </p>
 </div>
 
@@ -118,9 +118,9 @@
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sohan010-dev/Sohan010-dev/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Sohan010-dev/Sohan010-dev/output/github-contribution-grid-snake.svg">
-    <img alt="Pacman Contribution Arcade" src="https://raw.githubusercontent.com/Sohan010-dev/Sohan010-dev/output/github-contribution-grid-snake-dark.svg" width="100%">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Sohan010-dev/Sohan010-dev/blob/output/github-contribution-grid-snake-dark.svg?raw=true">
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/Sohan010-dev/Sohan010-dev/blob/output/github-contribution-grid-snake.svg?raw=true">
+    <img alt="Pacman Contribution Arcade" src="https://github.com/Sohan010-dev/Sohan010-dev/blob/output/github-contribution-grid-snake-dark.svg?raw=true" width="100%">
   </picture>
   <br>
   <p><i>Not today. Not tomorrow. But one day ;-)</i></p>
