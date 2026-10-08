@@ -1,18 +1,17 @@
 <!-- HEADER SECTION -->
 <div align="center">
-  <!-- Animated Colorful Header with Name and Background -->
-  <a href="https://github.com/YOUR_GITHUB_USERNAME">
+  <!-- Animated Colorful Background Header -->
+  <a href="https://github.com/Sohan010-dev">
     <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=Sohan%20Banerjee&fontSize=60&fontColor=ffffff&fontAlignY=35&desc=Web%20Developer%20%7C%201st-Year%20Student%20at%20UEM%20Kolkata&descSize=22&descAlignY=60&animation=twinkling" alt="Sohan Banerjee Header" />
   </a>
   
   <h3>Building Modern Web Apps 🚀</h3>
 
-  <!-- Stats Badges (Views & Stars Removed) -->
-  <p>
-    <img src="https://img.shields.io/github/followers/YOUR_GITHUB_USERNAME?color=00ffff&style=for-the-badge&logo=github&logoColor=white" alt="Followers" />
-  </p>
-
   <!-- Social Badges -->
+  <p>
+    <img src="https://img.shields.io/github/followers/Sohan010-dev?color=00ffff&style=for-the-badge&logo=github&logoColor=white" alt="Followers" />
+  </p>
+  
   <p>
     <a href="YOUR_LINKEDIN_LINK_HERE" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
@@ -41,7 +40,7 @@
 <!-- ABOUT ME SECTION -->
 ## ✨ About Me
 
-<table align="center">
+<table align="center" width="100%">
   <tr>
     <td width="60%">
       <blockquote>"I'm not trying to be perfect, I'm trying to get better every day."</blockquote>
@@ -85,21 +84,22 @@
 <!-- GITHUB STATS SECTION -->
 ## 📊 GitHub Stats
 
-<table align="center">
+<table align="center" width="100%">
   <tr>
-    <td width="60%">
-      <!-- GitHub Stats Card (Synthwave theme for extreme color) -->
-      <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=synthwave&hide_border=true&include_all_commits=true" alt="GitHub Stats" width="100%"/>
+    <td width="55%">
+      <!-- GitHub Stats Cards -->
+      <img src="https://github-readme-stats.vercel.app/api?username=Sohan010-dev&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="GitHub Stats" width="100%"/>
       <br>
-      <!-- GitHub Streak Card -->
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=synthwave&hide_border=true" alt="GitHub Streak" width="100%"/>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sohan010-dev&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="100%"/>
       <br>
-      <!-- Top Languages Card -->
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=synthwave&hide_border=true" alt="Top Languages" width="100%"/>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sohan010-dev&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="100%"/>
     </td>
-    <td width="40%" align="center">
-      <!-- Animated Robot GIF -->
-      <img src="https://cdn.dribbble.com/users/722246/screenshots/4405528/robot-dribbble.gif" alt="Robot Greeting" width="250"/>
+    <td width="45%" align="center">
+      <!-- Animated Robot with Speech Bubble matching the screenshot -->
+      <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" alt="Robot Greeting" width="250"/>
+      <br>
+      <code>Welcome! Can I help with anything?</code><br>
+      <code>If you need me, I'll just be over here.</code>
     </td>
   </tr>
 </table>
@@ -111,13 +111,18 @@
 ## 👾 Contribution Arcade
 
 <div align="center">
-  <!-- Generates a custom animated contribution graph -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&bg_color=1a1a2e&color=ff00ff&line=00ffff&point=ffffff&area=true&hide_border=true" alt="Contribution Graph" width="100%" />
+  <!-- Dark Mode Pacman Contribution Grid -->
+  <a href="https://github.com/Sohan010-dev">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sohan010-dev/Sohan010-dev/output/github-contribution-grid-snake-dark.svg">
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Sohan010-dev/Sohan010-dev/output/github-contribution-grid-snake.svg">
+      <!-- Fallback image styled for dark mode if action isn't running yet -->
+      <img alt="Pacman Contribution Arcade" src="https://github-readme-activity-graph.vercel.app/graph?username=Sohan010-dev&bg_color=0d1117&color=00ffff&line=ff00ff&point=ffffff&area=true&hide_border=true" width="100%">
+    </picture>
+  </a>
   <br>
   <p><i>Not today. Not tomorrow. But one day ;-)</i></p>
 </div>
-  
-
 <!--
 **Sohan010-dev/Sohan010-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
